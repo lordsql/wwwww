@@ -1,6 +1,5 @@
 {
   "allowed_users": [
-    {"nickname": "denischifer", "hwid": "a5acdfe9363d5b20aa4631a7ef3352e381cb0a69e896ed6adbeb8fe448030e29", "beta-access": true},
     {"nickname": "Amiraldik", "hwid": "46ead97cabdabd07677a55c417ca480d99edbd2ca52a230ca1b56b39202f06f2", "beta-access": false},
     {"nickname": "d3s1rr", "hwid": "dcd7fab8ccef670b5d0175e47d2660047f5c22b4a961bd8f8312c259fed2af09", "beta-access": false},
     {"nickname": "DanFordd", "hwid": "36c1aab200d2a75c7290fdac4597cb5676b42122e5b27d2f619de198ce64eee6", "beta-access": false},
