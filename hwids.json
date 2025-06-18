@@ -25,7 +25,7 @@
     {"nickname": "rassvetov", "hwid": "4a273a2da83d872ed0068c8d46839b639c77e62826e65b74baee97b72ab36102", "beta-access": false},
     {"nickname": "boghirspel", "hwid": "5d6c7ef0b8bd9c388a310f5808f88cdf401fbceee49f702b03b8d6ff64efa31b", "beta-access": false},
     {"nickname": "meduza", "hwid": "7ff7a8370093d68508ba20957a57dce807b9f855a254fd27e503231affe5dd36", "beta-access": false},
-    {"nickname": "Frosty", "hwid": "696eda626a952273b42e6698745d7c936327a23fd79b413fb4161031986555e3", "beta-access": true},
+    {"nickname": "Frosty", "hwid": "696eda626a952273b42e6698745d7c936327a23fd79b413fb4161031986555e3", "beta-access": false},
     {"nickname": "Versys1", "hwid": "7e2f35ebdfb00fba0fe3a22947b0894913738b5385d72564e02f003b27eccfa7", "beta-access": false},
     {"nickname": "neiseha", "hwid": "63c98d87f239dae981fdadb68b2c5f2def6f0ab1bcb3a6e4ddca3a95d9976a65", "beta-access": true},
     {"nickname": "stasik", "hwid": "b5fa609045c02d3edb4e895a85c994d5bf1130795a8ca35e7d6ac0e94f9d7658", "beta-access": false},
